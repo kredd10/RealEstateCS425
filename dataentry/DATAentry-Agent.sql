@@ -1,0 +1,25 @@
+INSERT INTO agent (
+    user_id,
+    job_title,
+    agency_name,
+    contract_type
+) VALUES
+  (21, 'Lead Realtor',           'Top Gun Realty',             'Full-time'),
+  (22, 'Senior Broker',          'Ice Man Estates',            'Full-time'),
+  (23, 'Associate',              'Goose & Co.',                'Part-time'),
+  (24, 'Office Manager',         'Blackwood Properties',       'Full-time'),
+  (25, 'Field Agent',            'Impossible Missions Realty', 'Full-time'),
+  (26, 'Research Analyst',       'Stickell Real Estate',       'Part-time'),
+  (27, 'Contract Broker',        'Benji Brokers',              'Contract'),
+  (28, 'Senior Agent',           'Brandt & Sons',              'Full-time'),
+  (29, 'Regional Manager',       'Faust Holdings',             'Full-time'),
+  (30, 'Realtor',                'Babbitt & Co.',              'Full-time'),
+  (31, 'Senior Realtor',         'Raymond Realty',             'Full-time'),
+  (32, 'Broker',                 'Maguire Estates',            'Part-time'),
+  (33, 'Assistant Broker',       'Boyd Brokers',               'Full-time'),
+  (34, 'Lead Agent',             'Tidwell Properties',         'Full-time'),
+  (35, 'Field Officer',          'Anderton Realty',            'Contract'),
+  (36, 'Legal Advisor',          'Kaffee & Assoc.',            'Full-time'),
+  (37, 'Director',               'Jessup Holdings',            'Full-time'),
+  (38, 'Project Agent',          'Cage Real Estate',           'Part-time'),
+  (39, 'Regional Broker',        'Vrataski Ventures',          'Full-time');
